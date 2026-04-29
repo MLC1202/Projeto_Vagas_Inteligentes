@@ -5,20 +5,30 @@ Identificação por RFID, detecção de ocupação por sensores IR de obstáculo
 com mensagens em display.
 
 ## Funcionalidades
-- Leitura de cartão RFID (UID / identificação)
-- Verificação de vagas livres/ocupadas (2x sensor de obstáculo IR)
-- Display com status:
+- Leitura de cartão RFID para identificação do usuário
+- Verificação de vagas livres/ocupadas usando sensores de obstáculo
+- Detecção de aproximação na cancela usando sensor de distância
+- Display OLED com mensagens de status:
   - "Desculpe, estacionamento cheio"
   - "Bem-vindo, NOME. Dirija-se à vaga X"
-- Controle de cancela via servo
-- Saída com dupla verificação (cartão + confirmação do sensor da vaga vazia)
+- Controle da cancela por servo motor
+- Controle de entrada com:
+  - Identificação por RFID
+  - Verificação de vaga disponível
+  - Abertura da cancela
+- Controle de saída com:
+  - Identificação por RFID
+  - Detecção do veículo na região da cancela
+  - Confirmação de liberação da vaga pelo sensor de obstáculo
 
 ## Hardware
 - Raspberry Pi Pico
 - Leitor RFID MFRC-522 + cartões/tags
 - 2x Sensor de Obstáculo IR (1 por vaga)
+- Sensor de distância – Ultrassom HC-SR04 (cancela)
 - Servo MG996 (cancela) + fonte 5V (2A)
 - Display OLED I2C 128×32
+- Conversor 
 - Protoboard + jumpers + cabo USB (programação/alimentação do Pico)
 
 ## Como rodar (exemplo)
