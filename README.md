@@ -4,6 +4,10 @@ Sistema embarcado para controle de acesso de um estacionamento com 2 vagas.
 Identificação por RFID, detecção de ocupação por sensores IR de obstáculo e acionamento de cancela via servo,
 com mensagens em display.
 
+## Diagrama de blocos
+<img width="798" height="583" alt="image" src="https://github.com/user-attachments/assets/8ca4f54c-74ab-424d-a2f0-4310812f4c6d" />
+
+
 ## Funcionalidades
 - Leitura de cartão RFID para identificação do usuário
 - Verificação de vagas livres/ocupadas usando sensores de obstáculo
