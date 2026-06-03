@@ -1,13 +1,13 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/MLC1202/Projeto_Vagas_Inteligentes?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/MLC1202/Projeto_Vagas_Inteligentes?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/MLC1202/Projeto_Vagas_Inteligentes?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/MLC1202/Projeto_Vagas_Inteligentes?style=for-the-badge)
-
 # 🅿️ Vaga Inteligente — Raspberry Pi Pico
 
 Sistema embarcado de controle de acesso a um estacionamento com **2 vagas**, desenvolvido em **MicroPython** com Raspberry Pi Pico. O usuário se identifica por RFID, o sistema verifica a disponibilidade de vagas, indica qual vaga usar no display OLED e aciona a cancela via servo motor — fechando-a apenas quando não há carro na região de passagem.
 
 ---
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=python&logoColor=white)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry%20Pi%20Pico-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-Internet%20of%20Things-0A66C2?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-orange?style=for-the-badge)
+![Hardware/Embedded](https://img.shields.io/badge/Hardware-Embedded-555555?style=for-the-badge)
 
 ## 📋 Sumário
 
