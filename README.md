@@ -5,7 +5,8 @@ Identificação por RFID, detecção de ocupação por sensores IR de obstáculo
 com mensagens em display.
 
 ## Diagrama de blocos
-<img width="798" height="583" alt="image" src="https://github.com/user-attachments/assets/8ca4f54c-74ab-424d-a2f0-4310812f4c6d" />
+<img width="798" height="583" alt="DiagramaDeBlocosEstacionamento drawio (1)" src="https://github.com/user-attachments/assets/a209d5c0-69cc-4502-a508-f493c519eeca" />
+
 
 
 ## Funcionalidades
