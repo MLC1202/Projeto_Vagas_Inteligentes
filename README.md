@@ -36,6 +36,7 @@ Estacionamentos sem automação exigem funcionários para controle de acesso e n
   - `"Estacionamento cheio"`
   - `"Cartão não cadastrado"`
   - `"Carro detectado. Aguarde..."`
+- Controle de saída: usuário aproxima o cartão novamente para liberar a vaga e acionar a cancela de saída
 
 ---
 
@@ -68,8 +69,8 @@ Estacionamentos sem automação exigem funcionários para controle de acesso e n
 |---|---|
 | VCC | 3V3 |
 | GND | GND |
-| SCL | GP1 |
-| SDA | GP0 |
+| SCL | GP5 |
+| SDA | GP4 |
 
 ### Leitor RFID MFRC522 (SPI)
 | Pino MFRC522 | Pino Pico |
@@ -127,8 +128,8 @@ Estacionamentos sem automação exigem funcionários para controle de acesso e n
 ### Ajustes importantes no código
 ```python
 SENSOR_OCUPADO_VALOR = 0   # trocar para 1 se os sensores funcionarem invertidos
-SERVO_FECHADO = 0          # ajustar ângulo conforme a mecânica
-SERVO_ABERTO = 90          # ajustar ângulo conforme a mecânica
+SERVO_FECHADO = 90    # ajustar ângulo conforme a mecânica
+SERVO_ABERTO  = 180   # ajustar ângulo conforme a mecânica
 DISTANCIA_CARRO_CM = 15    # ajustar conforme posição do HC-SR04
 ```
 
