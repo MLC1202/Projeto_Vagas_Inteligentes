@@ -167,8 +167,7 @@ Projeto_Vagas_Inteligentes/
 
 ## 👥 Equipe
 
-Projeto desenvolvido para a disciplina de Sistemas Embarcados — IMT.
-Matheus Antonio da Luz Cardoso // 22.01059-9
-Igor Gava Rubinato // 22.00094-0
-Jornas Fernando da Silva Eboli Machado // 22.00910-8
-Fernando Godoi Grinevicius // 22.00832-2
+- Matheus Antonio da Luz Cardoso — 22.01059-9
+- Igor Gava Rubinato — 22.00094-0
+- Jornas Fernando da Silva Eboli Machado — 22.00910-8
+- Fernando Godoi Grinevicius — 22.00832-2
