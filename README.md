@@ -162,13 +162,7 @@ Projeto_Vagas_Inteligentes/
 ## 👥 Equipe
 
 Projeto desenvolvido para a disciplina de Sistemas Embarcados — IMT.
-
----
-
-## ⚠️ Cuidados Elétricos
-
-- Todos os GNDs devem estar em comum: Pico, servo, HC-SR04, conversor de nível, RFID e OLED
-- **Não** ligar sinais de 5V diretamente nos GPIOs do Pico
-- **Não** ligar o ECHO do HC-SR04 diretamente no Pico
-- **Não** alimentar o MFRC522 com 5V
-- O servo deve ser alimentado com 5V; se usar fonte externa, manter GND comum com o Pico
+Matheus Antonio da Luz Cardoso // 22.01059-9
+Igor Gava Rubinato // 22.00094-0
+Jornas Fernando da Silva Eboli Machado // 22.00910-8
+Fernando Godoi Grinevicius // 22.00832-2
