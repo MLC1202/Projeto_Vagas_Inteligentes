@@ -13,7 +13,8 @@ Sistema embarcado de controle de acesso a um estacionamento com **2 vagas**, des
 <img width="900" height="930" alt="Foto Projeto" src="https://github.com/user-attachments/assets/cf3dfa7a-e3ca-47c3-a640-ad360c6b1631" />
 
 ## Vídeo do Projeto
-[![Assista ao demo](https://img.youtube.com/vi/X-j34Kw_w8o/0.jpg)]([https://youtu.be/X-j34Kw_w8o)
+
+[Link Do Vídeo](https://youtu.be/X-j34Kw_w8o)
 
 
 
