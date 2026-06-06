@@ -9,6 +9,14 @@ Sistema embarcado de controle de acesso a um estacionamento com **2 vagas**, des
 ![Status](https://img.shields.io/badge/Status-Em%20desenvolvimento-orange?style=for-the-badge)
 ![Hardware/Embedded](https://img.shields.io/badge/Hardware-Embedded-555555?style=for-the-badge)
 
+## Foto do Projeto
+<img width="900" height="930" alt="Foto Projeto" src="https://github.com/user-attachments/assets/cf3dfa7a-e3ca-47c3-a640-ad360c6b1631" />
+
+## Vídeo do Projeto
+
+
+
+
 ## 📋 Sumário
 
 - [Descrição do Problema](#-descrição-do-problema)
@@ -171,3 +179,6 @@ Projeto_Vagas_Inteligentes/
 - Igor Gava Rubinato — 22.00094-0
 - Jornas Fernando da Silva Eboli Machado — 22.00910-8
 - Fernando Godoi Grinevicius — 22.00832-2
+
+<img width="1600" height="720" alt="Foto Projeto Grupo" src="https://github.com/user-attachments/assets/a3810a4d-9f11-4774-809e-d7b5f2689dd3" />
+
